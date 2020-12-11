@@ -25,4 +25,4 @@ Examples of TML for Fraud (anomaly) detection:
 2) **IoT predictive asset maintainennce** - detect possible equipment failure on millions of IoT devices in real-time
 3) **Product Failure** - detect possible product failure and increase product quality
 
-Lot more use cases for both supervised and unsupervised learning using HPDE with VIPER.
+Lot more use cases for both supervised and unsupervised learning using HPDE with VIPER on data streams.
