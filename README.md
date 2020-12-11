@@ -1,6 +1,6 @@
 # MAADS-HPDE
 
-HPDE performs AutoML on training data streams.  To start HPDE run the command:
+HPDE performs AutoML on (training) data streams.  To start HPDE run the command:
 1) Command: [HPDE executable] [host] [port]
 
 HPDE will run the following **supervised** algorithms:
