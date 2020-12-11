@@ -5,7 +5,7 @@ HPDE performs AutoML on training data streams.  To start HPDE run the command:
 
 HPDE will run the following **supervised** algorithms:
 1) Neural networks
-2) Logistic regression
+2) Logistic regressions/Decision Trees
 3) Gradient boosting regressions
 4) Linear/Non-Linear regressions
 
