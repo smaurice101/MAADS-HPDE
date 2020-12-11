@@ -10,6 +10,7 @@ HPDE will run the following **supervised** algorithms:
 2) Logistic regressions/Decision Trees
 3) Gradient boosting regressions
 4) Linear/Non-Linear regressions
+5) Mathematic Optimization - if you want to find Global Optimal values for the independent variables and do **prescritive analytics**
 
 HPDE will also fine tune all of the hyperparameters. 
 
