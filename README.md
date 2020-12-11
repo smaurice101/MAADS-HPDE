@@ -2,7 +2,7 @@
 
 HPDE performs AutoML on (training) data streams.  To start HPDE run the command (on both Windows/Linux environments):
 1) Command: [HPDE executable] [host] [port]
-2) Create unlimited number of HPDE instances for massive scale
+2) Create unlimited number of HPDE instances for massive scale - fully compatible with microservices architecture for load shedding
 
 HPDE will run the following **supervised** algorithms:
 1) Neural networks
