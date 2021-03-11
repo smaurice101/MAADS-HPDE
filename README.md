@@ -1,6 +1,6 @@
 # MAADS-HPDE
 
-HPDE performs AutoML on (training) data streams.  To start HPDE run the command (on both Windows/Linux environments):
+HPDE performs AutoML on (training) data streams.  To start HPDE run the command (on MacOS, Windows or Linux environments):
 1) Command: [HPDE executable] [host] [port]
 2) Create unlimited number of HPDE instances for massive scale - fully compatible with microservices architecture for load shedding
 3) HPDE can be accessed via MAADS python library or REST API
